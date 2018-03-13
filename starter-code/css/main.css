@@ -6,3 +6,68 @@ Green: #00B172
 White: #FFF
 
 */
+.backgr{
+  width: 100%;
+  align-items: center;
+}
+
+.Music{
+  background-image: image();
+}
+
+.logoheader{
+  width: 167px;
+  height: 50px;
+}
+
+.textheader{
+  font-size: 18px;
+  text-align: left;
+  font-family: sans-serif;
+}
+
+.MusicTitle{
+  font-size: 50px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.MusicText{
+  text-align: center;
+}
+
+
+.WhatTitle{
+  font-size: 30px;
+  text-align: center;
+}
+
+.What img
+{
+  width: 10%;
+}
+
+.TitleText{
+  text-align: center;
+  color: #00B172;
+}
+
+.ContentText{
+  text-align: center;
+}
+
+.footer{
+  background-color: #00B172;
+  margin-left: 5%;
+  margin-right: 5%;
+  color:#FFFFFF;
+}
+
+.FPic1{
+  width: 50%;
+  text-align: center;
+}
+
+.FPic2{
+  width: 20%;
+}
